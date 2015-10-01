@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/pablo/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.0/e019d15a13a9786f881141d2df6654b8510bce8b/core-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="/home/pablo/AndroidStudioProjects/MiAplicacion/app/build/intermediates/pre-dexed/debug/core-3.2.0-7b32e55be9dd061f52c5d4a33c140ec33443a673.jar" />
+    </item>
+    <item
+        jar="/home/pablo/AndroidStudioProjects/MiAplicacion/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/pablo/AndroidStudioProjects/MiAplicacion/app/build/intermediates/pre-dexed/debug/classes-b459c79c399850efc7a7b52b63e71cedfa6a4bff.jar" />
+    </item>
+    <item
+        jar="/home/pablo/AndroidStudioProjects/MiAplicacion/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/pablo/AndroidStudioProjects/MiAplicacion/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-5f5a358be54c335fcb405d01fd29c7b3e69383e2.jar" />
+    </item>
+    <item
+        jar="/home/pablo/adt-bundle-linux-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/pablo/AndroidStudioProjects/MiAplicacion/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-3bb4cab6b40f40ec2c006d93ad051250186d48dc.jar" />
+    </item>
+    <item
+        jar="/home/pablo/AndroidStudioProjects/MiAplicacion/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="744a4b394a9a7db8a4c4680836d8544802a9cd64">
+        <dex dex="/home/pablo/AndroidStudioProjects/MiAplicacion/app/build/intermediates/pre-dexed/debug/classes-7a6bc87e1305bf9a378566c4d87b61bacd28b990.jar" />
+    </item>
+    <item
+        jar="/home/pablo/AndroidStudioProjects/MiAplicacion/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/pablo/AndroidStudioProjects/MiAplicacion/app/build/intermediates/pre-dexed/debug/classes-e0af9c578fb92ea853b2595222fcb5d79b7501ee.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fiscal Movil</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="archivo_mesa">mesa.json</string>
+
+    <string name="title_activity_selecciona_mesa">Selecciona Mesa</string>
+    <string name="title_activity_listas">ListasActivity</string>
+</resources>
